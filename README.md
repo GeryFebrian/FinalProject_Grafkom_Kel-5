@@ -12,4 +12,4 @@
 
 
 ## Demo
-Untuk demo silahkan buka salah satu folder lalu buka index.html dan Open live server pada IDE
+### <a href="https://geryfebrian.github.io/FinalProject_Grafkom_Kel-5/" id="some-heading">Demo</a>
